@@ -1,0 +1,66 @@
+.Layout-bar{
+  width: 100%;
+  height:auto;
+  
+
+  
+}
+.Sort{
+  float: left;
+  max-width: 30%;
+  height:auto;
+  text-align: center;
+  margin:2px 30px;
+
+
+}
+.Category{
+  max-width: 70%;
+margin: 20px 40%;
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+
+}
+
+.Man_Card{
+  float: left;
+  margin-left: 4%;
+  margin-top:20px;
+  bottom:20px;
+  width:20% !important;
+}
+.Man_Crad:hover{
+  filter: drop-shadow(2px 5px 5px blueviolet); 
+}
+
+.card-bar{
+  float:right !important;
+}
+.Panagation{
+  bottom:0;
+}
+
+.DialogForm{
+  width:100%;
+}
+/*=========== Detail============*/
+
+.Detail-form{
+  background-color: red !important;
+}
+
+.Detail-Form-Content{
+  width:60%;
+  height:auto;
+  margin-left:20%;
+  margin-top:5%;
+  
+}
+.Detail-bar{
+  margin-left: 90%;
+  position: absolute;
+  width: 10%;
+  height: auto;
+  top: 10%;
+}
